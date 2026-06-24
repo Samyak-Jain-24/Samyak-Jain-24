@@ -1,6 +1,6 @@
 Hi there, I'm Samyak Jain! 👋 
 
-I am a Computer Science and Engineering student at IIIT Hyderabad. I am a big fan of project-based learning, and I love building useful applications to get hands-on experience with new technologies.
+I am a Btech CSE student at IIIT Hyderabad. I am a big fan of project-based learning, and I love building useful applications to get hands-on experience with new technologies.
 <!--
 **Samyak-Jain-24/Samyak-Jain-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
